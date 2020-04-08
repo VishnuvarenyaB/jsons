@@ -1,2 +1,42 @@
-
-hgj
+[
+    {
+      "name":"Fruits & Vegetables",
+      "picture": "images/veg.jpg"
+      
+    },
+    {
+      "name":"Frozen Veg",
+      "picture": "images/frozen.jpg"
+     
+    },
+     {
+      "name":"Beverages",
+      "picture": "images/bev.jpg"
+     
+    },
+     {
+      "name":"Brannded Food",
+      "picture": "images/brand_f.jpg"
+     
+    },
+     {
+      "name":"Beauty & Personal Care",
+      "picture": "images/be.jpg"
+     
+    },
+     {
+      "name":"Home Care & Fashion",
+      "picture": "images/home.jpg"
+     
+    },
+    {
+      "name":"Non Veg",
+      "picture": "images/nonveg.jpg"
+     
+    },
+    {
+      "name":"Dairy, Bakery & Eggs",
+      "picture": "images/eggs.jpg"
+      
+    }
+  ]
