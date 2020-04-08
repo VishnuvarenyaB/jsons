@@ -1,1 +1,52 @@
 
+
+[
+    {
+     "name":"Abc ",
+      "picture": "images/apple.jpg",
+      "old_price":120,
+      "price":80,
+      "unit":"per Kg",
+      "disc": "Fresh Apple"
+    },
+    {
+      "name":"def",
+      "picture": "images/tomato.jpg",
+      "old_price":100,
+      "price":60,
+      "unit":"per Kg",
+      "disc": "Fresh Tomato"
+    },
+     {
+      "name":"ghi",
+      "picture": "images/lemons.jpg",
+      "old_price":80,
+      "price":45,
+      "unit":"per Kg",
+      "disc": "Fresh Lemon"
+    },
+     {
+      "name":"jkl",
+      "picture": "images/kiwi.jpg",
+      "old_price":90,
+      "price":60,
+      "unit":"per Kg",
+      "disc": "Fresh Kivi"
+    },
+     {
+      "name":"mno",
+      "picture": "images/guava.jpg",
+      "old_price":85,
+      "price":55,
+      "unit":"per Kg",
+      "disc": "Fresh Guava"
+    },
+     {
+      "name":"pqrs",
+      "picture": "images/grapes.jpg",
+      "old_price":60,
+      "price":40,
+      "unit":"per Kg",
+      "disc": "Fresh Grapes"
+    }
+  ]
