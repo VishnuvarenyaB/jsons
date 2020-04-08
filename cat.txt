@@ -1,7 +1,7 @@
 [
     {
     "id":0,
-      "name":"Fruits & Vegetables and vishnu",
+      "name":"Fruits & Vegetables",
       "picture": "images/veg.jpg"
       
     },
@@ -10,5 +10,5 @@
       "name":"Frozen Veg",
       "picture": "images/frozen.jpg"
      
-    }
+    },
 ]
