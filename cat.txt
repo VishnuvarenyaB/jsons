@@ -1,6 +1,6 @@
 [
     {
-      "name":"Fruits & Vegetables",
+      "name":"Fruits & Vegetables and vishnu",
       "picture": "images/veg.jpg"
       
     },
