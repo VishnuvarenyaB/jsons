@@ -11,5 +11,4 @@
       "picture": "images/frozen.jpg"
      
     }
-    
 ]
