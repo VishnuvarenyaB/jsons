@@ -1,6 +1,6 @@
 [
     {
-    "id":1,
+    "id":0,
       "name":"Fruits & Vegetables and vishnu",
       "picture": "images/veg.jpg"
       
@@ -12,33 +12,33 @@
      
     },
      {
-      "id":1,
+      "id":2,
       "name":"Beverages",
       "picture": "images/bev.jpg"
      
     },
      {
-      "id":1,
+      "id":3,
       "name":"Brannded Food",
       "picture": "images/brand_f.jpg"
      
     },
-     { "id":1,
+     { "id":4,
       "name":"Beauty & Personal Care",
       "picture": "images/be.jpg"
      
     },
-     { "id":1,
+     { "id":5,
       "name":"Home Care & Fashion",
       "picture": "images/home.jpg"
      
     },
-    { "id":1,
+    { "id":6,
       "name":"Non Veg",
       "picture": "images/nonveg.jpg"
      
     },
-    { "id":1,
+    { "id":7,
       "name":"Dairy, Bakery & Eggs",
       "picture": "images/eggs.jpg"
       
