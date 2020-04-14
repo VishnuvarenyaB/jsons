@@ -3,6 +3,7 @@
   
 "name": "chethu" ,
 "mobile": "9611825370", 
+"email":"sccthi@gmail.com",
 "address": "sannara",
 "pin": "57322", 
 "landmark": "aaa", 
