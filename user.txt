@@ -1,1 +1,13 @@
-{id: null, name: 'Good' , mobile: '6', address: 'Nsnsn', pin: '526', landmark: 'bsbs', locality: 'bbs', city: 'bsb'}
+{
+"id": "dddd",
+  
+"name": "chethu" ,
+"mobile": "9611825370", 
+"address": "sannara",
+"pin": "57322", 
+"landmark": "aaa", 
+"locality": "sss",
+"city": "kadaba"
+  
+  
+}
