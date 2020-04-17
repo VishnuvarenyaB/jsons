@@ -1,14 +1,14 @@
 {
 "id": 0,
   
-"name": "chethu" ,
-"mobile": "9611825370", 
-"email":"sccthi@gmail.com",
-"address": "sannara",
-"pin": "57322", 
+"name": "xyz" ,
+"mobile": "1234567890", 
+"email":"example@gmail.com",
+"address": "qwerty",
+"pin": "111111", 
 "landmark": "aaa", 
 "locality": "sss",
-"city": "kadaba"
+"city": "abcd"
   
   
 }
