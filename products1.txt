@@ -3,7 +3,7 @@
 [
     {
     "id":7,
-     "name":"Abc ",
+     "name":"Apple ",
       "picture": "images/apple.jpg",
       "old_price":120,
       "price":80,
@@ -12,7 +12,7 @@
     },
     {
     "id":8,
-      "name":"def",
+      "name":"Tomato",
       "picture": "images/tomato.jpg",
       "old_price":100,
       "price":60,
@@ -21,7 +21,7 @@
     },
      {
      "id":9,
-      "name":"ghi",
+      "name":"Lemon",
       "picture": "images/lemons.jpg",
       "old_price":80,
       "price":45,
@@ -30,7 +30,7 @@
     },
      {
      "id":10,
-      "name":"jkl",
+      "name":"Kivi",
       "picture": "images/kiwi.jpg",
       "old_price":90,
       "price":60,
@@ -39,7 +39,7 @@
     },
      {
      "id":11,
-      "name":"mno",
+      "name":"Guava",
       "picture": "images/guava.jpg",
       "old_price":85,
       "price":55,
@@ -48,7 +48,7 @@
     },
      {
      "id":12,
-      "name":"pqrs",
+      "name":"Grapes",
       "picture": "images/grapes.jpg",
       "old_price":60,
       "price":40,
