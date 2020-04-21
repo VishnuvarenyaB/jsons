@@ -1,14 +1,14 @@
 {
 "id": 0,
   
-"name": "xyz" ,
-"mobile": "1234567890", 
-"email":"example@gmail.com",
-"address": "qwerty",
-"pin": "111111", 
-"landmark": "aaa", 
-"locality": "sss",
-"city": "abcd"
+"name": "Varenya" ,
+"mobile": "9945519616", 
+"email":"bvishnuvarenya@gmail.com",
+"address": "Guddadka",
+"pin": "574223", 
+"landmark": "muger", 
+"locality": "sullia",
+"city": "kanakamajalu"
   
   
 }
