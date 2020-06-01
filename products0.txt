@@ -86,7 +86,7 @@
         "date_created_gmt": "2017-03-23T20:03:08",
         "date_modified": "2017-03-23T14:03:08",
         "date_modified_gmt": "2017-03-23T20:03:08",
-        "src": "https://example.com/wp-content/uploads/2017/03/T_4_front-11.jpg",
+        "src": "images/groceries.jpg",
         "name": "",
         "alt": ""
       },
