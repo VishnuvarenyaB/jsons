@@ -79,7 +79,7 @@
     ]
   },
   {
-    "name":"Mr. Arvind",
+    "name":"Mr. Arvinda",
     "age":"44 yrs",
     "gender":"M",
     "phone_number":"",
