@@ -156,6 +156,85 @@
       }
     ]
   }
+  
+  {
+    "name":"Mr. Varenya",
+    "age":"44 yrs",
+    "gender":"M",
+    "phone_number":"",
+    "address":"",
+    "venue_name":"Sapathgiri Clinical Laboratory, Puttur",
+    "venue_address":"",
+    "prescriptions":
+    [
+      {
+        "prescription_type":"OP",
+        "lab_no":"0437",
+        "op_no":"777",
+        "prescribed_tests":
+        [
+          {
+            "lab_test_name":"ANTISTREPTOLYSIN O",
+            "test_status":"comp",
+            "test_code":null,
+            "test_method":null,
+            "reports":
+            [
+              {
+                "report_values":
+                [
+                  {
+                    "parameter_type":"TestParameter",
+                    "paramter_name":"ANTISTREPTOLYSIN O",
+                    "result":"100",
+                    "method":"PARTICLE ENHANCED IMMUNOTURBIDIMETRIC",
+                    "highlight":false,
+                    "unit":"IU/mL",
+                    "upper_limit":"200.0",
+                    "lower_limit":"0.0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "lab_test_name":"BICARBONATE",
+            "test_status":"comp",
+            "test_code":null,
+            "test_method":null,
+            "reports":
+            [
+              {
+                "report_values":
+                [
+                  {
+                    "parameter_type":"TestGroup",
+                    "paramter_name":"Antibiotic Listing",
+                    "result":null,
+                    "method":null,
+                    "highlight":true,
+                    "unit":null,
+                    "upper_limit":null,
+                    "lower_limit":null
+                  },
+                  {
+                    "parameter_type":"TableFormat",
+                    "paramter_name":"Antibiotic Table",
+                    "result":null,
+                    "method":null,
+                    "highlight":true,
+                    "unit":null,
+                    "upper_limit":null,
+                    "lower_limit":null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 
 
   ]
