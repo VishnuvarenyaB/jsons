@@ -145,7 +145,7 @@
                     "method":null,
                     "highlight":true,
                     "unit":null,
-                    "upper_limit":100,
+                    "upper_limit":"100",
                     "lower_limit":null
                   }
                 ]
