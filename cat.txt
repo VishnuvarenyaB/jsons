@@ -57,8 +57,8 @@
                     "method":null,
                     "highlight":true,
                     "unit":null,
-                    "upper_limit":"100 < 100 is good range",
-                    "lower_limit":""
+                    "upper_limit":null,
+                    "lower_limit":null
                   },
                   {
                     "parameter_type":"TableFormat",
