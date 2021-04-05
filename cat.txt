@@ -51,7 +51,7 @@
                 "report_values":
                 [
                   {
-                    "parameter_type":"TestGroup",
+                    "parameter_type":"HtmlParameter",
                     "paramter_name":"Antibiotic Listing",
                     "result":null,
                     "method":null,
