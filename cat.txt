@@ -1,200 +1,255 @@
-[
 
+[
   {
-    "name":"Mr. Akash",
+    "name":"Mr. Ashwin",
     "age":"44 yrs",
-    "gender":"M",
-    "phone_number":"",
+    "gender":"M","phone_number":"9481760122",
     "address":"",
     "venue_name":"Sapathgiri Clinical Laboratory, Puttur",
-    "venue_address":"",
-    "prescriptions":
-    [
-      {
-        "prescription_type":"OP",
-        "lab_no":"0437",
-        "op_no":"777",
-        "prescribed_tests":
+    "venue_address":"","prescriptions":
+  [
+    {
+      "prescription_type":"OP",
+      "lab_no":"0440",
+      "op_no":"4314",
+      "prescribed_tests":
+      [
         [
           {
-            "lab_test_name":"<b> APP TEST </b>",
-            "test_status":"comp",
-            "test_code":null,
-            "test_method":null,
             "reports":
             [
               {
                 "report_values":
                 [
+
                   {
-                     
-                            "parameter_type": "TestHeading",
-                            "parameter_id": 633576,
-                            "parameter_name": "<b>Heading </b>",
-                            "highlight": false
-                        
+                    "parameter_type": "TestHeading",
+                    "parameter_id": 633576,
+                    "parameter_name": "<b>Heading </b>",
+                    "highlight": false
                   },
                   {
-                            "parameter_type": "TestParameter",
-                            "parameter_id": 633577,
-                            "parameter_name": "Parameter",
-                            "result": "1 unit",
-                            "method": "Method",
-                            "reference_range": "",
-                            "unit": "unit",
-                            "min_range": 0,
-                            "max_range": 0,
-                            "highlight": false
-                        },
-                         {
-                            "parameter_type": "MultiParameter",
-                            "parameter_id": 633578,
-                            "parameter_name": "Multiparameter",
-                            "result": "2 3",
-                            "highlight": false
-                        },
-                             {
-                            "parameter_type": "TestNote",
-                            "parameter_id": 633579,
-                            "parameter_name": "Notes",
-                            "notes": "<p>Note 1234</p>",
-                            "highlight": false
-                        },
-                        {
-                            "parameter_type": "TestInstruction",
-                            "parameter_id": 633580,
-                            "notes": "<p>5 Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<p>Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 11</td>\r\n\t\t\t<td>Table Rich Column 21</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 12</td>\r\n\t\t\t<td>Table Rich Column 22</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 13</td>\r\n\t\t\t<td>Table Rich Column 23</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
-                            "highlight": false
-                        },
-                        {
-                            "parameter_type": "HtmlParameter",
-                            "parameter_id": 633581,
-                            "parameter_name": "",
-                            "notes": "<p>6 Free Test Free Test Free TestFree TestFree Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test</p><p><br></p><table class=\"table table-bordered\"><tbody><tr><td>Table 1</td><td>Table 2</td><td>Table 3</td></tr><tr><td>Value 1&nbsp;</td><td>Value 2</td><td>Value 3</td></tr></tbody></table><p><br></p>"
-                        },
-                  
-                ]
-              }
-            ]
-          },
-          {
-            "lab_test_name":"BICARBONATE",
-            "test_status":"comp",
-            "test_code":null,
-            "test_method":null,
-            "reports":
-            [
-              {
-                "report_values":
-                [
-                  {
-                    "parameter_type":"HtmlParameter",
-                    "paramter_name":"Antibiotic Listing",
-                    "result":null,
-                    "method":null,
-                    "highlight":true,
-                    "unit":null,
-                    "upper_limit":null,
-                    "lower_limit":null
+                    "parameter_type": "TestParameter",
+                    "parameter_id": 633577,
+                    "parameter_name": "Parameter",
+                    "result": "1 unit",
+                    "method": "Method",
+                    "reference_range": "",
+                    "unit": "unit",
+                    "min_range": 0,
+                    "max_range": 0,
+                    "highlight": false
                   },
                   {
-                    "parameter_type":"TableFormat",
-                    "paramter_name":"Antibiotic Table",
-                    "result":null,
-                    "method":null,
-                    "highlight":true,
-                    "unit":null,
-                    "upper_limit":null,
-                    "lower_limit":null
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name":"Mr. Arvinda",
-    "age":"44 yrs",
-    "gender":"M",
-    "phone_number":"",
-    "address":"",
-    "venue_name":"Sapathgiri Clinical Laboratory, Puttur",
-    "venue_address":"",
-    "prescriptions":
-    [
-      {
-        "prescription_type":"OP",
-        "lab_no":"0437",
-        "op_no":"777",
-        "prescribed_tests":
-        [
-          {
-            "lab_test_name":"ANTISTREPTOLYSIN O",
-            "test_status":"comp",
-            "test_code":null,
-            "test_method":null,
-            "reports":
-            [
-              {
-                "report_values":
-                [
+                    "parameter_type": "MultiParameter",
+                    "parameter_id": 633578,
+                    "parameter_name": "Multiparameter",
+                    "result": "2 3",
+                    "highlight": false
+                  },
+                  {
+                    "parameter_type": "TestNote",
+                    "parameter_id": 633579,
+                    "parameter_name": "Notes",
+                    "notes": "<p>Note 1234</p>",
+                    "highlight": false
+                  },
+                  {
+                    "parameter_type": "TestInstruction",
+                    "parameter_id": 633580,
+                    "notes": "<p>5 Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<p>Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 11</td>\r\n\t\t\t<td>Table Rich Column 21</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 12</td>\r\n\t\t\t<td>Table Rich Column 22</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 13</td>\r\n\t\t\t<td>Table Rich Column 23</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+                    "highlight": false
+                  },
+                  {
+                    "parameter_type": "HtmlParameter",
+                    "parameter_id": 633581,
+                    "parameter_name": "",
+                    "notes": "<p>6 Free Test Free Test Free TestFree TestFree Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test</p><p><br></p><table class=\"table table-bordered\"><tbody><tr><td>Table 1</td><td>Table 2</td><td>Table 3</td></tr><tr><td>Value 1&nbsp;</td><td>Value 2</td><td>Value 3</td></tr></tbody></table><p><br></p>"
+                  },
+
                   {
                     "parameter_type":"TestParameter",
-                    "paramter_name":"ANTISTREPTOLYSIN O",
-                    "result":"100",
-                    "method":"PARTICLE ENHANCED IMMUNOTURBIDIMETRIC",
-                    "highlight":false,
-                    "unit":"IU/mL",
-                    "upper_limit":"200.0",
-                    "lower_limit":"0.0"
+                    "parameter_id":3849,
+                    "parameter_name":"AMONIA",
+                    "result":"22",
+                    "reference_range":"",
+                    "unit":"",
+                    "min_range":0,
+                    "max_range":0,
+                    "highlight":false
+                  },
+                  {
+                    "parameter_type":"TableFormat",
+                    "parameter_id":17596,
+                    "parameter_name":"AMONIA",
+                    "highlight":true,
+                    "report_table_format_result_api_list":
+                    [
+                      [
+                        "Column 1",
+                        "Column 2"
+                      ],
+                      [
+                        "AZTREONAM",
+                        "1"
+                      ],
+                      [
+                        "CEFAPERAZONE/SALBACTAM",
+                        "3"
+                      ],
+                      [
+                        "CEFAZOLIN",
+                        "5"
+                      ],
+                      [
+                        "CEFOXITIN",
+                        "7"
+                      ],
+                      ["CEFPEROME",
+                        "9"
+                      ],
+                      [
+                        "CEFPIROME",
+                        "11"
+                      ],
+                      [
+                        "AMPICILLIN",
+                        "12"
+                      ],
+                      [
+                        "AMOXICILLIN / CLAVULANIC ACID",
+                        "13"
+                      ]
+                    ]
+                  },
+                  {
+                    "parameter_type":"TableFormat",
+                    "parameter_id":18194,
+                    "parameter_name":"Table 1",
+                    "highlight":true,
+                    "report_table_format_result_api_list":
+                    [
+                      [
+                        "Table format H1",
+                        "Table format H2",
+                        "Table format H3"
+                      ],
+                      [
+                        "AMIKACIN",
+                        "1",
+                        "2"
+                      ],
+                      [
+                        "AMOXICILLIN / CLAVULANIC ACID",
+                        "3",
+                        "4"
+                      ],
+                      [
+                        "AMOXICILLIN-CALVULANIC ACID",
+                        "5",
+                        "6"
+                      ],
+                      [
+                        "AMOXYCILLIN",
+                        "7",
+                        "8"
+                      ],
+                      [
+                        "AMOXYCLAV",
+                        "9",
+                        "10"
+                      ],
+                      [
+                        "AMPICILLIN",
+                        "11",
+                        "12"
+                      ],
+                      [
+                        "AZITHROMYCIN",
+                        "12",
+                        "14"
+                      ],
+                      [
+                        "AZTREONAM",
+                        "15",
+                        "16"
+                      ],
+                      [
+                        "CEFAPERAZONE/SALBACTAM",
+                        "17",
+                        "18"
+                      ],
+                      [
+                        "CEFAZOLIN",
+                        "19",
+                        "20"
+                      ]
+                    ]
                   }
-                ]
+                ],
+                "test_name":"<b> AMONIA </b>",
+                "report_format_type":"table_format",
+                "test_id":"144269"
               }
             ]
-          },
+          }
+        ],
+        [
           {
-            "lab_test_name":"BICARBONATE",
-            "test_status":"comp",
-            "test_code":null,
-            "test_method":null,
             "reports":
             [
               {
                 "report_values":
                 [
+
+
+
                   {
-                    "parameter_type":"TestGroup",
-                    "paramter_name":"Antibiotic Listing",
-                    "result":null,
-                    "method":null,
-                    "highlight":true,
-                    "unit":null,
-                    "upper_limit":null,
-                    "lower_limit":null
+                    "parameter_type":"TestParameter",
+                    "parameter_id":3852,
+                    "parameter_name":"FASTING   BLOOD  SUGAR ",
+                    "result":"77 mg/dl",
+                    "method":"GOD-PAP",
+                    "reference_range":"70 - 110 mg/dl <br>",
+                    "unit":"mg/dl",
+                    "min_range":"70",
+                    "max_range":"110",
+                    "highlight":false
                   },
                   {
-                    "parameter_type":"TableFormat",
-                    "paramter_name":"Antibiotic Table",
-                    "result":null,
-                    "method":null,
-                    "highlight":true,
-                    "unit":null,
-                    "upper_limit":"100",
-                    "lower_limit":null
+                    "parameter_type":"TestParameter",
+                    "parameter_id":3853,
+                    "parameter_name":"RANDOM  BLOOD SUGAR",
+                    "result":"88 mg/dl",
+                    "method":"GOD-PAP",
+                    "reference_range":"70 - 140 mg/dl <br>",
+                    "unit":"mg/dl",
+                    "min_range":"70",
+                    "max_range":"140",
+                    "highlight":false
+                  },
+                  {
+                    "parameter_type":"TestParameter",
+                    "parameter_id":3854,
+                    "parameter_name":"POST PRANDIAL BLOOD SUGAR",
+                    "result":"99 mg/dl",
+                    "method":"GOD-PAP",
+                    "reference_range":"70 - 140 mg/dl <br>",
+                    "unit":"mg/dl",
+                    "min_range":"70",
+                    "max_range":"140",
+                    "highlight":false
                   }
-                ]
+                ],
+                "test_name":"<b> BLOOD SUGAR (FBS/RBS/PPBS) </b>",
+                "report_format_type":"table_format",
+                "test_id":"144270"
               }
             ]
           }
         ]
-      }
-    ]
-  }
-  
- 
-
-
+      ]
+    }
   ]
+  }
+]
