@@ -17,7 +17,7 @@
         "prescribed_tests":
         [
           {
-            "lab_test_name":"ANTISTREPTOLYSIN O",
+            "lab_test_name":"<b> APP TEST </b>",
             "test_status":"comp",
             "test_code":null,
             "test_method":null,
@@ -27,15 +27,52 @@
                 "report_values":
                 [
                   {
-                    "parameter_type":"TestParameter",
-                    "paramter_name":"ANTISTREPTOLYSIN O",
-                    "result":"100",
-                    "method":"PARTICLE ENHANCED IMMUNOTURBIDIMETRIC",
-                    "highlight":false,
-                    "unit":"IU/mL",
-                    "upper_limit":"200.0",
-                    "lower_limit":"0.0"
-                  }
+                     
+                            "parameter_type": "TestHeading",
+                            "parameter_id": 633576,
+                            "parameter_name": "<b>Heading </b>",
+                            "highlight": false
+                        
+                  },
+                  {
+                            "parameter_type": "TestParameter",
+                            "parameter_id": 633577,
+                            "parameter_name": "Parameter",
+                            "result": "1 unit",
+                            "method": "Method",
+                            "reference_range": "",
+                            "unit": "unit",
+                            "min_range": 0,
+                            "max_range": 0,
+                            "highlight": false
+                        },
+                         {
+                            "parameter_type": "MultiParameter",
+                            "parameter_id": 633578,
+                            "parameter_name": "Multiparameter",
+                            "result": "2 3",
+                            "highlight": false
+                        },
+                             {
+                            "parameter_type": "TestNote",
+                            "parameter_id": 633579,
+                            "parameter_name": "Notes",
+                            "notes": "<p>Note 1234</p>",
+                            "highlight": false
+                        },
+                        {
+                            "parameter_type": "TestInstruction",
+                            "parameter_id": 633580,
+                            "notes": "<p>5 Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<p>Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 11</td>\r\n\t\t\t<td>Table Rich Column 21</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 12</td>\r\n\t\t\t<td>Table Rich Column 22</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 13</td>\r\n\t\t\t<td>Table Rich Column 23</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+                            "highlight": false
+                        },
+                        {
+                            "parameter_type": "HtmlParameter",
+                            "parameter_id": 633581,
+                            "parameter_name": "",
+                            "notes": "<p>6 Free Test Free Test Free TestFree TestFree Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test</p><p><br></p><table class=\"table table-bordered\"><tbody><tr><td>Table 1</td><td>Table 2</td><td>Table 3</td></tr><tr><td>Value 1&nbsp;</td><td>Value 2</td><td>Value 3</td></tr></tbody></table><p><br></p>"
+                        },
+                  
                 ]
               }
             ]
