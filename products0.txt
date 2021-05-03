@@ -273,6 +273,232 @@
           "test_id":"18723073"
         }
       ]
+    },
+    {
+      "user_type": null,
+      "check_if_referred": "true",
+      "check_if_shared": "false",
+      "check_if_my_report": "false",
+      "prescription_id": 10218194,
+      "date": "29-04-2021",
+      "printed": 2,
+      "patient": "Mr. Jivith",
+      "gender": "M",
+      "age": "22 yrs",
+      "patient_no": "21040079",
+      "lab_no": "1541",
+      "mobile": "9567124136",
+      "prescribed_by": "Dr. VARENYA BHAT",
+      "doctor_qualification": "MD",
+      "reporting_date_time": "29-04-2021 at 03:21 PM",
+      "sample_received_date_time": "29-04-2021 at 03:18 PM",
+      "venue_name": "Ayuslab Mangalore test",
+      "venue_phone_no": "8880016018",
+      "payment_status": "paid",
+      "reportdoneby": "ayusdemoadmin",
+      "download_report_dispatch_id": 9929298,
+      "reports": [
+        {
+          "report_values": [
+            {
+              "parameter_type": "TestHeading",
+              "parameter_id": 633576,
+              "parameter_name": "<b>Heading </b>",
+              "highlight": false
+            },
+            {
+              "parameter_type": "TestParameter",
+              "parameter_id": 633577,
+              "parameter_name": "Parameter",
+              "result": "1 unit",
+              "method": "Method",
+              "reference_range": "",
+              "unit": "unit",
+              "min_range": 0,
+              "max_range": 0,
+              "highlight": false
+            },
+            {
+              "parameter_type": "MultiParameter",
+              "parameter_id": 633578,
+              "parameter_name": "Multiparameter",
+              "result": "2 3",
+              "highlight": false
+            },
+            {
+              "parameter_type": "TestNote",
+              "parameter_id": 633579,
+              "parameter_name": "Notes",
+              "notes": "<p>Note 1234</p>",
+              "highlight": false
+            },
+            {
+              "parameter_type": "TestInstruction",
+              "parameter_id": 633580,
+              "notes": "<p>5 Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<p>Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 11</td>\r\n\t\t\t<td>Table Rich Column 21</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 12</td>\r\n\t\t\t<td>Table Rich Column 22</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 13</td>\r\n\t\t\t<td>Table Rich Column 23</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+              "highlight": false
+            },
+            {
+              "parameter_type": "HtmlParameter",
+              "parameter_id": 633581,
+              "parameter_name": "",
+              "notes": "<p>6 Free Test Free Test Free TestFree TestFree Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test</p><p><br></p><table class=\"table table-bordered\"><tbody><tr><td>Table 1</td><td>Table 2</td><td>Table 3</td></tr><tr><td>Value 1&nbsp;</td><td>Value 2</td><td>Value 3</td></tr></tbody></table><p><br></p>"
+            },
+            {
+              "parameter_type": "TableFormat",
+              "parameter_id": 633582,
+              "parameter_name": "Table Format",
+              "highlight": true,
+              "report_table_format_result_api_list": [
+                [
+                  [
+                    1,
+                    [
+                      "<b>Table format H1</b>",
+                      "<b>Table format H2</b>",
+                      "<b>Table format H3</b>"
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    1,
+                    [
+                      "MEROPENEM",
+                      "7",
+                      "8"
+                    ]
+                  ],
+                  [
+                    2,
+                    [
+                      "IMIPENEM",
+                      "9",
+                      "10"
+                    ]
+                  ],
+                  [
+                    3,
+                    [
+                      "ERTAPENEM",
+                      "11",
+                      "12"
+                    ]
+                  ],
+                  [
+                    4,
+                    [
+                      "DORIPENEM",
+                      "13",
+                      "14"
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    1,
+                    [
+                      "AMPICILLIN",
+                      "15",
+                      "16"
+                    ]
+                  ],
+                  [
+                    2,
+                    [
+                      "AMOXYCILLIN",
+                      "17",
+                      "18"
+                    ]
+                  ],
+                  [
+                    3,
+                    [
+                      "OXACILLIN",
+                      "19",
+                      "20"
+                    ]
+                  ],
+                  [
+                    4,
+                    [
+                      "PIPERACILLIN",
+                      "21",
+                      "22"
+                    ]
+                  ],
+                  [
+                    5,
+                    [
+                      "PENICILLIN",
+                      "23",
+                      "24"
+                    ]
+                  ],
+                  [
+                    6,
+                    [
+                      "METHICILLIN",
+                      "25",
+                      "26"
+                    ]
+                  ],
+                  [
+                    7,
+                    [
+                      "MECILLINAM",
+                      "27",
+                      "28"
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    1,
+                    [
+                      "PIPERACILLIN / TAZOBACTAM",
+                      "29",
+                      "30"
+                    ]
+                  ]
+                ],
+                [
+                  [
+                    1,
+                    [
+                      "NITROFURANTOIN",
+                      "31",
+                      "32"
+                    ]
+                  ]
+                ]
+              ]
+            },
+            {
+              "parameter_type": "TestInstruction",
+              "parameter_id": 633583,
+              "notes": "Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template&nbsp;",
+              "highlight": false
+            },
+            {
+              "parameter_type": "HtmlParameter",
+              "parameter_id": 633584,
+              "parameter_name": null,
+              "notes": null
+            }
+          ],
+          "test_name": "<b> APP TEST </b>",
+          "report_format_type": "table_format",
+          "test_id": "25321286"
+        }
+      ]
     }
   ]
 }
+
+
+
+
+
+
+
