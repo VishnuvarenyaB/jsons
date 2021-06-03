@@ -1,14 +1,127 @@
-{
-"id": 0,
-  
-"name": "Varenya" ,
-"mobile": "9945519616", 
-"email":"bvishnuvarenya@gmail.com",
-"address": "Guddadka",
-"pin": "574223", 
-"landmark": "muger", 
-"locality": "sullia",
-"city": "kanakamajalu"
-  
-  
-}
+[
+ {
+        "name": "Mr. Vishwas R",
+        "age": "25 yrs",
+        "gender": "M",
+        "phone_number": "9481760122",
+        "address": "",
+        "venue_name": "Ayuslab Mangalore test",
+        "venue_address": "\r\n",
+        "prescriptions": [
+            {
+                "prescription_type": "",
+                "lab_no": "1544",
+                "op_no": "",
+                "prescribed_tests": [
+                    [
+                        {
+                            "test_status": "appr",
+                            "reports": [
+                                {
+                                    "report_values": [
+                                        {
+                                            "parameter_type": "TestHeading",
+                                            "parameter_id": 633576,
+                                            "parameter_name": "<b>Heading </b>",
+                                            "highlight": false
+                                        },
+                                        {
+                                            "parameter_type": "TestParameter",
+                                            "parameter_id": 633577,
+                                            "parameter_name": "Parameter",
+                                            "result": "1 unit",
+                                            "method": "Method",
+                                            "reference_range": "",
+                                            "unit": "unit",
+                                            "min_range": 0,
+                                            "max_range": 0,
+                                            "highlight": false
+                                        },
+                                        {
+                                            "parameter_type": "MultiParameter",
+                                            "parameter_id": 633578,
+                                            "parameter_name": "Multiparameter",
+                                            "result": "2 3",
+                                            "highlight": false
+                                        },
+                                        {
+                                            "parameter_type": "TestNote",
+                                            "parameter_id": 633579,
+                                            "parameter_name": "Notes",
+                                            "notes": "<p>4 Note 123</p>",
+                                            "highlight": false
+                                        },
+                                        {
+                                            "parameter_type": "TestInstruction",
+                                            "parameter_id": 633580,
+                                            "notes": "<p>5 Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<p>Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 11</td>\r\n\t\t\t<td>Table Rich Column 21</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 12</td>\r\n\t\t\t<td>Table Rich Column 22</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 13</td>\r\n\t\t\t<td>Table Rich Column 23</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+                                            "highlight": false
+                                        },
+                                        {
+                                            "parameter_type": "HtmlParameter",
+                                            "parameter_id": 633581,
+                                            "parameter_name": "",
+                                            "notes": "<p>Free Test Free Test Free TestFree TestFree Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test</p><p><br></p><table class=\"table table-bordered\"><tbody><tr><td>Table 1</td><td>Table 2</td><td>Table 3</td></tr><tr><td>Value 1&nbsp;</td><td>Value 2</td><td>Value 3</td></tr></tbody></table><p><br></p>"
+                                        },
+                                        {
+                                            "parameter_type": "TableFormat",
+                                            "parameter_id": 633582,
+                                            "parameter_name": "Table Format",
+                                            "highlight": true,
+                                            "report_table_format_result_api_list": [
+                                                [
+                                                    [
+                                                        [
+                                                            "<b>Table format H1</b>",
+                                                            "<b>Table format H2</b>",
+                                                            "<b>Table format H3</b>"
+                                                        ]
+                                                    ]
+                                                ],
+                                                [
+                                                    [
+                                                        [
+                                                            "MEROPENEM",
+                                                            "1",
+                                                            "2"
+                                                        ]
+                                                    ],
+                                                    [
+                                                        [
+                                                            "IMIPENEM",
+                                                            "23",
+                                                            ""
+                                                        ]
+                                                    ]
+                                                ],
+                                                [],
+                                                [],
+                                                []
+                                            ]
+                                        },
+                                        {
+                                            "parameter_type": "TestInstruction",
+                                            "parameter_id": 633583,
+                                            "notes": "Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template&nbsp;",
+                                            "highlight": false
+                                        },
+                                        {
+                                            "parameter_type": "HtmlParameter",
+                                            "parameter_id": 633584,
+                                            "parameter_name": null,
+                                            "notes": null
+                                        }
+                                    ],
+                                    "test_name": "<b> APP TEST </b>",
+                                    "report_format_type": "table_format",
+                                    "test_id": "25351154"
+                                }
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ]
+    }
+
+]
