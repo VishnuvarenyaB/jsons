@@ -510,7 +510,7 @@
         "venue_name": "Ayuslab Mangalore test",
         "venue_address": "\r\n",
         "prescribed_tests": [
-            [{}],
+            [],
             [
                 {
                     "prescribed_test_id": 26495972,
@@ -602,8 +602,8 @@
                 }
             ],
             [
-            {}],
-            [{}]
+           ],
+            []
         ],
         "page_no": null,
         "total_pages": 1
