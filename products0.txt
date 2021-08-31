@@ -1,505 +1,134 @@
-{
-  "report_dispatches":
-  [
-    {
-      "user_type":"patient_user",
-      "check_if_referred":"false",
-      "check_if_shared":"false",
-      "check_if_my_report":"true",
-      "prescription_id":7583596,
-      "date":"15-07-2020",
-      "printed":1,
-      "patient":"Mr. AFSAL MP",
+[
+   {
+      "name":"Mr. Vineeth",
+      "age":"44 Yrs",
       "gender":"M",
-      "age":"46 yrs",
-      "patient_no":"20040236",
-      "lab_no":"5507",
-      "mobile":"9744878172",
-      "reporting_date_time":"15-07-2020 at 11:31 AM",
-      "sample_received_date_time":"15-07-2020 at 09:59 AM",
-      "venue_name":" Pazhayangadi THE LAB",
-      "venue_phone_no":"8147321532",
-      "payment_status":"due",
-      "reportdoneby":"Shafeeque Ahammed",
-      "download_report_dispatch_id":7460881,
-      "reports":
-      [
-        {
-          "report_values":
-          [
-            {
-              "parameter_type":"TestHeading",
-              "parameter_id":357692,
-              "parameter_name":"<b>Prothrombin Time</b>",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357693,
-              "parameter_name":"Test",
-              "result":"12.7 Seconds",
-              "reference_range":"11 - 17 Seconds <br>",
-              "unit":"Seconds",
-              "min_range":"11",
-              "max_range":"17",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357694,
-              "parameter_name":"Control",
-              "result":"13.0",
-              "reference_range":"",
-              "unit":"",
-              "min_range":0,
-              "max_range":0,
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357695,
-              "parameter_name":"INR",
-              "result":"0.97",
-              "reference_range":"&lt;1.2 <br>",
-              "unit":"",
-              "min_range":"0",
-              "max_range":"0",
-              "highlight":false
-            }
-          ],
-          "test_name":"<b> PT INR </b>",
-          "report_format_type":"table_format",
-          "test_id":"18723074"
-        }
+      "patient_id":59279,
+      "phone_number":"",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescriptions":[
+         {
+            "prescription_id":59822,
+            "prescription_date":"25-08-2021",
+            "prescription_type":"OP",
+            "lab_no":"0020",
+            "op_no":"4298618",
+            "reference_center":null,
+            "prescribed_tests":[
+               [
+                  {
+                     "prescribed_test_id":144313,
+                     "report_id":133557,
+                     "test_status":"comp",
+                     "approver_status":true,
+                     "test_name":"ANTISTREPTOLYSIN O"
+                  }
+               ],
+               [
+                  {
+                     "prescribed_test_id":144314,
+                     "report_id":133558,
+                     "test_status":"comp",
+                     "approver_status":true,
+                     "test_name":"BICARBONATE"
+                  }
+               ],
+               [
+                  {
+                     "prescribed_test_id":144315,
+                     "report_id":133559,
+                     "test_status":"comp",
+                     "approver_status":false,
+                     "test_name":"FASTING URINE SUGAR"
+                  }
+               ],
+               [
+                  {
+                     "prescribed_test_id":144316,
+                     "report_id":133556,
+                     "test_status":"comp",
+                     "approver_status":true,
+                     "test_name":"BT, CT"
+                  }
+               ]
+            ]
+         }
       ]
-    },
-    {
-      "user_type":"patient_user",
-      "check_if_referred":"false",
-      "check_if_shared":"false",
-      "check_if_my_report":"true",
-      "prescription_id":7583596,
-      "date":"16-07-2020",
-      "printed":0,
-      "patient":"Mr. AFSAL MP",
+   },
+   {
+      "name":"Mr. Darshan",
+      "age":"44 Yrs",
       "gender":"M",
-      "age":"46 yrs",
-      "patient_no":"20040236",
-      "lab_no":"5507",
-      "mobile":"9744878172",
-      "reporting_date_time":"16-07-2020 at 10:51 AM",
-      "sample_received_date_time":"15-07-2020 at 09:59 AM",
-      "venue_name":" Pazhayangadi THE LAB",
-      "venue_phone_no":"8147321532",
-      "payment_status":"due",
-      "reportdoneby":"Shafeeque Ahammed",
-      "download_report_dispatch_id":7466345,
-      "reports":
-      [
-        {
-          "report_values":
-          [
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357628,
-              "parameter_name":"Haemoglobin",
-              "result":"10.5 gm/dl",
-              "reference_range":"14 - 18 gm/dl <br>",
-              "unit":"gm/dl",
-              "min_range":"14",
-              "max_range":"18",
-              "highlight":true
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357629,
-              "parameter_name":"Total W.B.C",
-              "result":"18000 cells/cumm",
-              "reference_range":"4000 - 11000 cells/cumm <br>",
-              "unit":"cells/cumm",
-              "min_range":"4000",
-              "max_range":"11000",
-              "highlight":true
-            },
-            {
-              "parameter_type":"TestHeading",
-              "parameter_id":357630,
-              "parameter_name":"<b>Differential Count</b>",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357631,
-              "parameter_name":"Neutrophil",
-              "result":"87 %",
-              "reference_range":"40 - 60 % <br>",
-              "unit":"%",
-              "min_range":"40",
-              "max_range":"60",
-              "highlight":true
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357632,
-              "parameter_name":"Lymphocyte",
-              "result":"08 %",
-              "reference_range":"20 - 40 % <br>",
-              "unit":"%",
-              "min_range":"20",
-              "max_range":"40",
-              "highlight":true
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357633,
-              "parameter_name":"Eosinophil",
-              "result":"05 %",
-              "reference_range":"0 - 6 % <br>",
-              "unit":"%",
-              "min_range":"0",
-              "max_range":"6",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357634,
-              "parameter_name":"Monocyte",
-              "result":"00 %",
-              "reference_range":"0 - 8 % <br>",
-              "unit":"%",
-              "min_range":"0",
-              "max_range":"8",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357635,
-              "parameter_name":"Basophil",
-              "result":"00 %",
-              "reference_range":"0 - 1 % <br>",
-              "unit":"%",
-              "min_range":"0",
-              "max_range":"1",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357637,
-              "parameter_name":"Platelet Count",
-              "result":"2.76 Lakhs/cumm",
-              "reference_range":"1.5 - 4.5 Lakhs/cumm <br>",
-              "unit":"Lakhs/cumm",
-              "min_range":"1.5",
-              "max_range":"4.5",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357638,
-              "parameter_name":"R.B.C",
-              "result":"3.38 mill/cumm",
-              "reference_range":"4.5 - 6.2 mill/cumm <br>",
-              "unit":"mill/cumm",
-              "min_range":"4.5",
-              "max_range":"6.2",
-              "highlight":true
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357639,
-              "parameter_name":"P.C.V",
-              "result":"28 %",
-              "reference_range":"42 - 54 % <br>",
-              "unit":"%",
-              "min_range":"42",
-              "max_range":"54",
-              "highlight":true
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357640,
-              "parameter_name":"M.C.V",
-              "result":"83.5 fl",
-              "reference_range":"80 - 98 fl <br>",
-              "unit":"fl",
-              "min_range":"80",
-              "max_range":"98",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357641,
-              "parameter_name":"M.C.H",
-              "result":"31.2 pg",
-              "reference_range":"26 - 34 pg <br>",
-              "unit":"pg",
-              "min_range":"26",
-              "max_range":"34",
-              "highlight":false
-            },
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357642,
-              "parameter_name":"M.C.H.C",
-              "result":"37.3 %",
-              "reference_range":"31 - 38 % <br>",
-              "unit":"%",
-              "min_range":"31",
-              "max_range":"38",
-              "highlight":false
-            }
-          ],
-          "test_name":"<b> Complete Blood Count (Cbc) </b>",
-          "report_format_type":"table_format",
-          "test_id":"18723072"
-        },
-        {
-          "report_values":
-          [
-            {
-              "parameter_type":"TestParameter",
-              "parameter_id":357988,
-              "parameter_name":"S.Sodium",
-              "result":"113 mmol/L",
-              "reference_range":"135 - 147 mmol/L <br>",
-              "unit":"mmol/L",
-              "min_range":"135",
-              "max_range":"147",
-              "highlight":true
-            }
-          ],
-          "test_name":"<b> Serum Sodium (Na<sup>+</sup>) </b>",
-          "report_format_type":"table_format",
-          "test_id":"18723073"
-        }
+      "patient_id":59278,
+      "phone_number":"",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescriptions":[
+         {
+            "prescription_id":59821,
+            "prescription_date":"24-08-2021",
+            "prescription_type":"OP",
+            "lab_no":"0019",
+            "op_no":"18461",
+            "reference_center":"Arvi Diagnostics",
+            "referred_by":"Dr. Sumith",
+            "prescribed_tests":[
+               [
+                  {
+                     "prescribed_test_id":144311,
+                     "report_id":133551,
+                     "test_status":"comp",
+                     "approver_status":true,
+                     "test_name":"BLOOD SUGAR (FBS/RBS/PPBS)"
+                  }
+               ],
+               [
+                  {
+                     "prescribed_test_id":144312,
+                     "report_id":133552,
+                     "test_status":"comp",
+                     "approver_status":true,
+                     "test_name":"ANTISTREPTOLYSIN O"
+                  }
+               ]
+            ]
+         }
       ]
-    },
-    {
-      "user_type": null,
-      "check_if_referred": "true",
-      "check_if_shared": "false",
-      "check_if_my_report": "false",
-      "prescription_id": 10218194,
-      "date": "29-04-2021",
-      "printed": 2,
-      "patient": "Mr. Jivith",
-      "gender": "M",
-      "age": "22 yrs",
-      "patient_no": "21040079",
-      "lab_no": "1541",
-      "mobile": "9567124136",
-      "prescribed_by": "Dr. VARENYA BHAT",
-      "doctor_qualification": "MD",
-      "reporting_date_time": "29-04-2021 at 03:21 PM",
-      "sample_received_date_time": "29-04-2021 at 03:18 PM",
-      "venue_name": "Ayuslab Mangalore test",
-      "venue_phone_no": "8880016018",
-      "payment_status": "paid",
-      "reportdoneby": "ayusdemoadmin",
-      "download_report_dispatch_id": 9929298,
-      "reports": [
-        {
-          "report_values": [
-            {
-              "parameter_type": "TestHeading",
-              "parameter_id": 633576,
-              "parameter_name": "<b>Heading </b>",
-              "highlight": false
-            },
-            {
-              "parameter_type": "TestParameter",
-              "parameter_id": 633577,
-              "parameter_name": "Parameter",
-              "result": "1 unit",
-              "method": "Method",
-              "reference_range": "",
-              "unit": "unit",
-              "min_range": 0,
-              "max_range": 0,
-              "highlight": false
-            },
-            {
-              "parameter_type": "MultiParameter",
-              "parameter_id": 633578,
-              "parameter_name": "Multiparameter",
-              "result": "2 3",
-              "highlight": false
-            },
-            {
-              "parameter_type": "TestNote",
-              "parameter_id": 633579,
-              "parameter_name": "Notes",
-              "notes": "<p>Note 1234</p>",
-              "highlight": false
-            },
-            {
-              "parameter_type": "TestInstruction",
-              "parameter_id": 633580,
-              "notes": "<p>5 Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<p>Rich TestRich TestRich TestRich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Testv&nbsp;Rich Test&nbsp;Rich Test&nbsp;Rich Test v&nbsp;Rich TestRich TestRich Test&nbsp;Rich TestRich Test</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 11</td>\r\n\t\t\t<td>Table Rich Column 21</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 12</td>\r\n\t\t\t<td>Table Rich Column 22</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>Table Rich Column 13</td>\r\n\t\t\t<td>Table Rich Column 23</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
-              "highlight": false
-            },
-            {
-              "parameter_type": "HtmlParameter",
-              "parameter_id": 633581,
-              "parameter_name": "",
-              "notes": "<p>6 Free Test Free Test Free TestFree TestFree Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test Free Test Free Test Free TestFree Test</p><p><br></p><table class=\"table table-bordered\"><tbody><tr><td>Table 1</td><td>Table 2</td><td>Table 3</td></tr><tr><td>Value 1&nbsp;</td><td>Value 2</td><td>Value 3</td></tr></tbody></table><p><br></p>"
-            },
-            {
-              "parameter_type": "TableFormat",
-              "parameter_id": 633582,
-              "parameter_name": "Table Format",
-              "highlight": true,
-              "report_table_format_result_api_list": [
-                [
-                  [
-                    1,
-                    [
-                      "<b>Table format H1</b>",
-                      "<b>Table format H2</b>",
-                      "<b>Table format H3</b>"
-                    ]
-                  ]
-                ],
-                [
-                  [
-                    1,
-                    [
-                      "MEROPENEM",
-                      "7",
-                      "8"
-                    ]
-                  ],
-                  [
-                    2,
-                    [
-                      "IMIPENEM",
-                      "9",
-                      "10"
-                    ]
-                  ],
-                  [
-                    3,
-                    [
-                      "ERTAPENEM",
-                      "11",
-                      "12"
-                    ]
-                  ],
-                  [
-                    4,
-                    [
-                      "DORIPENEM",
-                      "13",
-                      "14"
-                    ]
-                  ]
-                ],
-                [
-                  [
-                    1,
-                    [
-                      "AMPICILLIN",
-                      "15",
-                      "16"
-                    ]
-                  ],
-                  [
-                    2,
-                    [
-                      "AMOXYCILLIN",
-                      "17",
-                      "18"
-                    ]
-                  ],
-                  [
-                    3,
-                    [
-                      "OXACILLIN",
-                      "19",
-                      "20"
-                    ]
-                  ],
-                  [
-                    4,
-                    [
-                      "PIPERACILLIN",
-                      "21",
-                      "22"
-                    ]
-                  ],
-                  [
-                    5,
-                    [
-                      "PENICILLIN",
-                      "23",
-                      "24"
-                    ]
-                  ],
-                  [
-                    6,
-                    [
-                      "METHICILLIN",
-                      "25",
-                      "26"
-                    ]
-                  ],
-                  [
-                    7,
-                    [
-                      "MECILLINAM",
-                      "27",
-                      "28"
-                    ]
-                  ]
-                ],
-                [
-                  [
-                    1,
-                    [
-                      "PIPERACILLIN / TAZOBACTAM",
-                      "29",
-                      "30"
-                    ]
-                  ]
-                ],
-                [
-                  [
-                    1,
-                    [
-                      "NITROFURANTOIN",
-                      "31",
-                      "32"
-                    ]
-                  ]
-                ]
-              ]
-            },
-            {
-              "parameter_type": "TestInstruction",
-              "parameter_id": 633583,
-              "notes": "Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template Template&nbsp;",
-              "highlight": false
-            },
-            {
-              "parameter_type": "HtmlParameter",
-              "parameter_id": 633584,
-              "parameter_name": null,
-              "notes": null
-            }
-          ],
-          "test_name": "<b> APP TEST </b>",
-          "report_format_type": "table_format",
-          "test_id": "25321286"
-        }
-      ]
-    }
-  ]
-}
-
-
-
-
-
-
-
-
+   },
+   {
+      "name":"Mr. Ranjith",
+      "age":"44 Yrs",
+      "gender":"M",
+      "patient_id":59271,
+      "phone_number":"",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescriptions":[
+         {
+            "prescription_id":59814,
+            "prescription_date":"08-07-2021",
+            "prescription_type":"OP",
+            "lab_no":"0014",
+            "op_no":"14122",
+            "reference_center":null,
+            "prescribed_tests":[
+               [
+                  {
+                     "prescribed_test_id":144298,
+                     "report_id":133539,
+                     "test_status":"comp",
+                     "approver_status":false,
+                     "test_name":"24 HRS URINE PROTEIN"
+                  }
+               ]
+            ]
+         }
+      ],
+      "page_no":"1",
+      "total_pages":1
+   }
+]
