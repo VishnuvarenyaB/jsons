@@ -8,52 +8,65 @@
       "address":"",
       "venue_name":"Ayus2021 API with Approval workflow",
       "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
-      "prescriptions":[
+      "prescription_id":59826,
+      "prescription_date":"27-08-2021",
+      "prescription_type":"OP",
+      "lab_no":"0024",
+      "op_no":"Op1641",
+      "reference_center":null,
+      "prescribed_tests":[
          {
-            "prescription_id":59822,
-            "prescription_date":"25-08-2021",
-            "prescription_type":"OP",
-            "lab_no":"0020",
-            "op_no":"4298618",
-            "reference_center":null,
-            "prescribed_tests":[
-               [
-                  {
-                     "prescribed_test_id":144313,
-                     "report_id":133557,
-                     "test_status":"comp",
-                     "approver_status":true,
-                     "test_name":"ANTISTREPTOLYSIN O"
-                  }
-               ],
-               [
-                  {
-                     "prescribed_test_id":144314,
-                     "report_id":133558,
-                     "test_status":"comp",
-                     "approver_status":true,
-                     "test_name":"BICARBONATE"
-                  }
-               ],
-               [
-                  {
-                     "prescribed_test_id":144315,
-                     "report_id":133559,
-                     "test_status":"comp",
-                     "approver_status":false,
-                     "test_name":"FASTING URINE SUGAR"
-                  }
-               ],
-               [
-                  {
-                     "prescribed_test_id":144316,
-                     "report_id":133556,
-                     "test_status":"comp",
-                     "approver_status":true,
-                     "test_name":"BT, CT"
-                  }
-               ]
-            ]
+            "prescribed_test_id":144322,
+            "report_id":133566,
+            "test_status":"comp",
+            "approver_status":true,
+            "test_name":"BLOOD SUGAR (FBS/RBS/PPBS)"
+         }
+      ]
+   },
+   {
+      "name":"Mr. Vineeth",
+      "age":"44 Yrs",
+      "gender":"M",
+      "patient_id":59279,
+      "phone_number":"",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescription_id":59822,
+      "prescription_date":"25-08-2021",
+      "prescription_type":"OP",
+      "lab_no":"0020",
+      "op_no":"4298618",
+      "reference_center":null,
+      "prescribed_tests":[
+         {
+            "prescribed_test_id":144313,
+            "report_id":133557,
+            "test_status":"comp",
+            "approver_status":true,
+            "test_name":"ANTISTREPTOLYSIN O"
+         },
+         {
+            "prescribed_test_id":144314,
+            "report_id":133558,
+            "test_status":"comp",
+            "approver_status":true,
+            "test_name":"BICARBONATE"
+         },
+         {
+            "prescribed_test_id":144315,
+            "report_id":133559,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"FASTING URINE SUGAR"
+         },
+         {
+            "prescribed_test_id":144316,
+            "report_id":133556,
+            "test_status":"comp",
+            "approver_status":true,
+            "test_name":"BT, CT"
          }
       ]
    },
@@ -66,35 +79,27 @@
       "address":"",
       "venue_name":"Ayus2021 API with Approval workflow",
       "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
-      "prescriptions":[
+      "prescription_id":59821,
+      "prescription_date":"24-08-2021",
+      "prescription_type":"OP",
+      "lab_no":"0019",
+      "op_no":"18461",
+      "reference_center":"Arvi Diagnostics",
+      "referred_by":"Dr. Sumith",
+      "prescribed_tests":[
          {
-            "prescription_id":59821,
-            "prescription_date":"24-08-2021",
-            "prescription_type":"OP",
-            "lab_no":"0019",
-            "op_no":"18461",
-            "reference_center":"Arvi Diagnostics",
-            "referred_by":"Dr. Sumith",
-            "prescribed_tests":[
-               [
-                  {
-                     "prescribed_test_id":144311,
-                     "report_id":133551,
-                     "test_status":"comp",
-                     "approver_status":true,
-                     "test_name":"BLOOD SUGAR (FBS/RBS/PPBS)"
-                  }
-               ],
-               [
-                  {
-                     "prescribed_test_id":144312,
-                     "report_id":133552,
-                     "test_status":"comp",
-                     "approver_status":true,
-                     "test_name":"ANTISTREPTOLYSIN O"
-                  }
-               ]
-            ]
+            "prescribed_test_id":144311,
+            "report_id":133551,
+            "test_status":"comp",
+            "approver_status":true,
+            "test_name":"BLOOD SUGAR (FBS/RBS/PPBS)"
+         },
+         {
+            "prescribed_test_id":144312,
+            "report_id":133552,
+            "test_status":"comp",
+            "approver_status":true,
+            "test_name":"ANTISTREPTOLYSIN O"
          }
       ]
    },
@@ -107,25 +112,134 @@
       "address":"",
       "venue_name":"Ayus2021 API with Approval workflow",
       "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
-      "prescriptions":[
+      "prescription_id":59814,
+      "prescription_date":"08-07-2021",
+      "prescription_type":"OP",
+      "lab_no":"0014",
+      "op_no":"14122",
+      "reference_center":null,
+      "prescribed_tests":[
          {
-            "prescription_id":59814,
-            "prescription_date":"08-07-2021",
-            "prescription_type":"OP",
-            "lab_no":"0014",
-            "op_no":"14122",
-            "reference_center":null,
-            "prescribed_tests":[
-               [
-                  {
-                     "prescribed_test_id":144298,
-                     "report_id":133539,
-                     "test_status":"comp",
-                     "approver_status":false,
-                     "test_name":"24 HRS URINE PROTEIN"
-                  }
-               ]
-            ]
+            "prescribed_test_id":144298,
+            "report_id":133539,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"24 HRS URINE PROTEIN"
+         }
+      ]
+   },
+   {
+      "name":"Dileep",
+      "age":"",
+      "gender":null,
+      "patient_id":59267,
+      "phone_number":"",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescription_id":59810,
+      "prescription_date":"10-06-2021",
+      "prescription_type":"",
+      "lab_no":"0001",
+      "op_no":"",
+      "reference_center":null,
+      "prescribed_tests":[
+         {
+            "prescribed_test_id":144286,
+            "report_id":133512,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"ANTISTREPTOLYSIN O"
+         }
+      ]
+   },
+   {
+      "name":"Mr. Ashwin",
+      "age":"44 Yrs",
+      "gender":"M",
+      "patient_id":59255,
+      "phone_number":"9481760122",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescription_id":59798,
+      "prescription_date":"30-04-2021",
+      "prescription_type":"OP",
+      "lab_no":"0440",
+      "op_no":"4314",
+      "reference_center":"Girija Clinic",
+      "referred_by":"Dr.  FAZAL RAHMAN",
+      "prescribed_tests":[
+         {
+            "prescribed_test_id":144269,
+            "report_id":133479,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"AMONIA"
+         },
+         {
+            "prescribed_test_id":144270,
+            "report_id":133477,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"BLOOD SUGAR (FBS/RBS/PPBS)"
+         }
+      ]
+   },
+   {
+      "name":"Mr. Sudarshan",
+      "age":"44 Yrs",
+      "gender":"M",
+      "patient_id":59254,
+      "phone_number":"",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescription_id":59797,
+      "prescription_date":"05-04-2021",
+      "prescription_type":"OP",
+      "lab_no":"0439",
+      "op_no":"341",
+      "reference_center":null,
+      "prescribed_tests":[
+         {
+            "prescribed_test_id":144268,
+            "report_id":133472,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"ANTISTREPTOLYSIN O"
+         }
+      ]
+   },
+   {
+      "name":"Mr. Akash",
+      "age":"44 Yrs",
+      "gender":"M",
+      "patient_id":59252,
+      "phone_number":"",
+      "address":"",
+      "venue_name":"Ayus2021 API with Approval workflow",
+      "venue_address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "prescription_id":59795,
+      "prescription_date":"22-02-2021",
+      "prescription_type":"OP",
+      "lab_no":"0437",
+      "op_no":"777",
+      "reference_center":null,
+      "prescribed_tests":[
+         {
+            "prescribed_test_id":144263,
+            "report_id":133467,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"ANTISTREPTOLYSIN O"
+         },
+         {
+            "prescribed_test_id":144264,
+            "report_id":133468,
+            "test_status":"comp",
+            "approver_status":false,
+            "test_name":"BICARBONATE"
          }
       ],
       "page_no":"1",
