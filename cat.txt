@@ -1,424 +1,55 @@
-{
-    "referred_by_list": [
-        {
-            "doctor_id": 1857,
-            "doctor_name": "Dr. Murali Keshav"
-        },
-        {
-            "doctor_id": 1858,
-            "doctor_name": "Dr. Gowrish"
-        },
-        {
-            "doctor_id": 1859,
-            "doctor_name": "Dr. K. Karunakara Adappa"
-        },
-        {
-            "doctor_id": 1860,
-            "doctor_name": "Dr. Pramod Phayde"
-        },
-        {
-            "doctor_id": 1861,
-            "doctor_name": "Dr. SATHISH M C"
-        },
-        {
-            "doctor_id": 1862,
-            "doctor_name": "Dr. Lokesh"
-        },
-        {
-            "doctor_id": 1863,
-            "doctor_name": "Dr. BALASUBRAMANYA"
-        },
-        {
-            "doctor_id": 1864,
-            "doctor_name": "Dr. M.SHRIPAD RAO"
-        },
-        {
-            "doctor_id": 1865,
-            "doctor_name": "Dr. ANIL KAKUNJE                                                                          "
-        },
-        {
-            "doctor_id": 1866,
-            "doctor_name": "Dr.  FAZAL RAHMAN"
-        },
-        {
-            "doctor_id": 2515,
-            "doctor_name": "Dr. Vinayaka"
-        },
-        {
-            "doctor_id": 32003,
-            "doctor_name": "Dr. SHRINIDHI"
-        },
-        {
-            "doctor_id": 67553,
-            "doctor_name": "Dr. Ayuslab"
-        },
-        {
-            "doctor_id": 68149,
-            "doctor_name": "Dr. NAGARAJ S"
-        },
-        {
-            "doctor_id": 68785,
-            "doctor_name": "Dr. Brijesh"
-        },
-        {
-            "doctor_id": 68786,
-            "doctor_name": "Dr. Lokesh v"
-        },
-        {
-            "doctor_id": 68787,
-            "doctor_name": "Dr. Raghu"
-        },
-        {
-            "doctor_id": 69775,
-            "doctor_name": "Dr. Benjamin"
-        },
-        {
-            "doctor_id": 70207,
-            "doctor_name": "Dr. Bharath"
-        },
-        {
-            "doctor_id": 70208,
-            "doctor_name": "Dr. Caif"
-        },
-        {
-            "doctor_id": 70209,
-            "doctor_name": "Dr. Druva"
-        },
-        {
-            "doctor_id": 70210,
-            "doctor_name": "Dr. Egma"
-        },
-        {
-            "doctor_id": 78629,
-            "doctor_name": "Dr. Surendra"
-        },
-        {
-            "doctor_id": 85879,
-            "doctor_name": "Dr. Drmx"
-        },
-        {
-            "doctor_id": 87728,
-            "doctor_name": "Dr. Harsha"
-        },
-        {
-            "doctor_id": 87741,
-            "doctor_name": "Dr. Sanju Samson"
-        },
-        {
-            "doctor_id": 87796,
-            "doctor_name": "Dr. Manoj Mohan"
-        },
-        {
-            "doctor_id": 87881,
-            "doctor_name": "Dr. Dinesh Narayan"
-        },
-        {
-            "doctor_id": 87883,
-            "doctor_name": "Dr. GKBHAT"
-        },
-        {
-            "doctor_id": 88708,
-            "doctor_name": "Dr. Vishal"
-        },
-        {
-            "doctor_id": 89359,
-            "doctor_name": "Dr. Ramesh"
-        },
-        {
-            "doctor_id": 89367,
-            "doctor_name": "Vinod"
-        },
-        {
-            "doctor_id": 89475,
-            "doctor_name": "Dr. sujith"
-        },
-        {
-            "doctor_id": 89716,
-            "doctor_name": "Dr. Suman"
-        },
-        {
-            "doctor_id": 90308,
-            "doctor_name": "Dr. Vinod"
-        },
-        {
-            "doctor_id": 91074,
-            "doctor_name": "Dr Kiumar"
-        },
-        {
-            "doctor_id": 91599,
-            "doctor_name": "Dr. Vishak"
-        },
-        {
-            "doctor_id": 91755,
-            "doctor_name": "Dr. Ashwin"
-        },
-        {
-            "doctor_id": 91756,
-            "doctor_name": "Dr. Neeksha"
-        },
-        {
-            "doctor_id": 91758,
-            "doctor_name": "Dr. Glann Maxwell"
-        },
-        {
-            "doctor_id": 92912,
-            "doctor_name": "Dr. demodoctor"
-        },
-        {
-            "doctor_id": 92913,
-            "doctor_name": "Dr. Haridas"
-        },
-        {
-            "doctor_id": 92914,
-            "doctor_name": "Dr. Mohan"
-        },
-        {
-            "doctor_id": 92915,
-            "doctor_name": "Dr. Rakesh"
-        },
-        {
-            "doctor_id": 92916,
-            "doctor_name": "Dr. Nishanth N h K"
-        },
-        {
-            "doctor_id": 92917,
-            "doctor_name": "Dr. sekar"
-        },
-        {
-            "doctor_id": 92918,
-            "doctor_name": "Dr. Suren Mishra"
-        },
-        {
-            "doctor_id": 92919,
-            "doctor_name": "Dr Sriram"
-        },
-        {
-            "doctor_id": 95176,
-            "doctor_name": "Dr. clinicdoctor"
-        },
-        {
-            "doctor_id": 98471,
-            "doctor_name": "Dr. ASHWIN N S"
-        },
-        {
-            "doctor_id": 99057,
-            "doctor_name": "Dr. demodoctor"
-        },
-        {
-            "doctor_id": 99058,
-            "doctor_name": "Dr. Mohan"
-        },
-        {
-            "doctor_id": 99059,
-            "doctor_name": "Dr. Nishanth N h K"
-        },
-        {
-            "doctor_id": 99060,
-            "doctor_name": "Dr. Rakesh"
-        },
-        {
-            "doctor_id": 99720,
-            "doctor_name": "Dr. narayan"
-        },
-        {
-            "doctor_id": 99730,
-            "doctor_name": "Dr. PRAVEEN"
-        },
-        {
-            "doctor_id": 101909,
-            "doctor_name": "Dr. VENU"
-        },
-        {
-            "doctor_id": 108579,
-            "doctor_name": "Dr. SRIPATHI BHAT"
-        },
-        {
-            "doctor_id": 110559,
-            "doctor_name": "Dr. MANOJ"
-        },
-        {
-            "doctor_id": 111386,
-            "doctor_name": "Dr. LAMAN"
-        },
-        {
-            "doctor_id": 111387,
-            "doctor_name": "Dr. Ranganna"
-        },
-        {
-            "doctor_id": 111408,
-            "doctor_name": "Dr. Zaid"
-        },
-        {
-            "doctor_id": 111409,
-            "doctor_name": "Dr. UMESH KUMAR"
-        },
-        {
-            "doctor_id": 112982,
-            "doctor_name": "Dr. Clinicdoctor1"
-        },
-        {
-            "doctor_id": 112983,
-            "doctor_name": "Dr. Ravichandra"
-        },
-        {
-            "doctor_id": 112984,
-            "doctor_name": "Dr. Vivekram"
-        },
-        {
-            "doctor_id": 113443,
-            "doctor_name": "Vishal"
-        },
-        {
-            "doctor_id": 113639,
-            "doctor_name": "Dr. Shrihari"
-        },
-        {
-            "doctor_id": 113670,
-            "doctor_name": "Dr. Naveen M Ballalla"
-        },
-        {
-            "doctor_id": 122578,
-            "doctor_name": "Dr. Aashwi "
-        },
-        {
-            "doctor_id": 127824,
-            "doctor_name": "Dr. HUMAN"
-        },
-        {
-            "doctor_id": 127894,
-            "doctor_name": "Dr. Ramesh"
-        },
-        {
-            "doctor_id": 133510,
-            "doctor_name": "Dr. A"
-        },
-        {
-            "doctor_id": 136406,
-            "doctor_name": "Dr. Rakesh"
-        },
-        {
-            "doctor_id": 148550,
-            "doctor_name": "Dr. VANDANA"
-        },
-        {
-            "doctor_id": 148697,
-            "doctor_name": "Dr. xyz"
-        },
-        {
-            "doctor_id": 148790,
-            "doctor_name": "Dr. Ramesh"
-        },
-        {
-            "doctor_id": 148791,
-            "doctor_name": "Dr. Laxman"
-        },
-        {
-            "doctor_id": 148794,
-            "doctor_name": "Dr. Vinod"
-        },
-        {
-            "doctor_id": 148795,
-            "doctor_name": "Dr. Dr Kiumar"
-        },
-        {
-            "doctor_id": 148797,
-            "doctor_name": "Dr. sanu"
-        },
-        {
-            "doctor_id": 148798,
-            "doctor_name": "Dr. Dr. Vishal"
-        },
-        {
-            "doctor_id": 148803,
-            "doctor_name": "Dr. physician2"
-        },
-        {
-            "doctor_id": 148831,
-            "doctor_name": "Dr. rakeshtestingphysician"
-        },
-        {
-            "doctor_id": 148874,
-            "doctor_name": "Dr. Dr. BHARATH"
-        },
-        {
-            "doctor_id": 148877,
-            "doctor_name": "Dr. Dr. Shrinidhi"
-        },
-        {
-            "doctor_id": 148878,
-            "doctor_name": "Dr. Dr. Ravichandra"
-        },
-        {
-            "doctor_id": 148879,
-            "doctor_name": "Dr. Dr. Vivek Ram"
-        },
-        {
-            "doctor_id": 149067,
-            "doctor_name": "Dr. Clinicdoc"
-        },
-        {
-            "doctor_id": 149756,
-            "doctor_name": "Dr. Pankanj"
-        },
-        {
-            "doctor_id": 149921,
-            "doctor_name": "Dr. Raj"
-        },
-        {
-            "doctor_id": 151821,
-            "doctor_name": "Dr. Mehaboob"
-        },
-        {
-            "doctor_id": 153450,
-            "doctor_name": "Dr. VARENYA BHAT"
-        },
-        {
-            "doctor_id": 161962,
-            "doctor_name": "Dr. Nithin"
-        },
-        {
-            "doctor_id": 161966,
-            "doctor_name": "Dr. Nithin N M"
-        },
-        {
-            "doctor_id": 165996,
-            "doctor_name": "Dr. puspa"
-        },
-        {
-            "doctor_id": 166446,
-            "doctor_name": "Dr. Mathive"
-        },
-        {
-            "doctor_id": 171424,
-            "doctor_name": "Dr. Anvith Rao"
-        },
-        {
-            "doctor_id": 182773,
-            "doctor_name": "Dr. Keshav"
-        },
-        {
-            "doctor_id": 195424,
-            "doctor_name": "Nithin N M"
-        },
-        {
-            "doctor_id": 198173,
-            "doctor_name": "Dr. Srikanth Rao"
-        },
-        {
-            "doctor_id": 198233,
-            "doctor_name": "Dr. SELF"
-        },
-        {
-            "doctor_id": 203251,
-            "doctor_name": "Dr. Dhanush MV "
-        },
-        {
-            "doctor_id": 206384,
-            "doctor_name": "Dr. Dhanush MV"
-        },
-        {
-            "doctor_id": 255756,
-            "doctor_name": "Dr. Raj"
-        }
-    ]
-}
+[
+   {
+      "home_visit_id":43,
+      "venue_name":"LAB 2020",
+      "name":"Govindh",
+      "gender":"M",
+      "mobile":"9876543210",
+      "email":"govindh@gmail.com",
+      "address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "age":"30 Yrs",
+      "state":"Karnataka",
+      "pin_code":"574302",
+      "visit_type":"home_sample_collection",
+      "visit_time":"07-10-2021 AT 04:00 PM",
+      "doctor":"Ashwath",
+      "note":"",
+      "status":"pending",
+      "assigned_to":"collectionboy2020"
+   },
+   {
+      "home_visit_id":44,
+      "venue_name":"LAB 2020",
+      "name":"Ashwin",
+      "gender":"M",
+      "mobile":"9481760122",
+      "email":"ashwinnaraen5@gmail.com",
+      "address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "age":"44 Yrs",
+      "state":"Karnataka",
+      "pin_code":"574302",
+      "visit_type":"home_sample_collection",
+      "visit_time":"06-10-2021 AT 03:00 PM",
+      "doctor":"Gopi",
+      "note":"",
+      "status":"pending",
+      "assigned_to":"collectionboy2020"
+   },
+   {
+      "home_visit_id":49,
+      "venue_name":"LAB 2020",
+      "name":"Ashwin",
+      "gender":"M",
+      "mobile":"9481760122",
+      "email":"ashwinnaraen5@gmail.com",
+      "address":"Hemavathi Nagar,\r\nAlape,Bajal road,\r\nMangalore",
+      "age":"30 Yrs",
+      "state":"Karnataka",
+      "pin_code":"574302",
+      "visit_type":"home_sample_collection",
+      "visit_time":"13-10-2021 AT 04:00 PM",
+      "note":"",
+      "status":"pending",
+      "assigned_to":"collectionboy2020"
+   }
+]
