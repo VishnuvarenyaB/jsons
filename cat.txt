@@ -48,7 +48,7 @@
       "pin_code":"574302",
       "visit_type":"home_sample_collection",
       "visit_time":"13-10-2021 AT 04:00 PM",
-      "doctor":"Gopi",
+      "doctor":"Gop",
       "note":"",
       "status":"pending",
       "assigned_to":"collectionboy2020"
