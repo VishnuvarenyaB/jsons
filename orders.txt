@@ -1,2 +1,35 @@
-[
-]
+{
+   "name":"Aanand",
+   "gender":"M",
+   "mobile":"9481760123",
+   "email":"anand5@gmail.com",
+   "address":"Hemavathi Nagar,Alape,Bajal road,Mangalore",
+   "age":"40 Yrs",
+   "state":"karnataka",
+   "pin_code":null,
+   "visit_type":"lab_visit",
+   "visit_time":"12-10-2021 AT 02:00 PM",
+   "doctor":"vivekrraj",
+   "note":"Health Checkup",
+   "status":"pending",
+   "assigned_to":"Collectionperson123",
+   "lab_tests":[
+      {
+         "test_name":"ANTISTREPTOLYSIN O"
+      },
+      {
+         "test_name":"BLOOD SUGAR (FBS/RBS/PPBS)"
+      }
+   ],
+   "bill_item_masters":[
+      {
+         "bill_item_master_name":"Consultation"
+      }
+   ],
+   "packages":[
+      {
+         "package_name":"Package 2"
+      }
+   ],
+   "total_amount":"250.0"
+}
