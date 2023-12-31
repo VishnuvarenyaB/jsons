@@ -1,5 +1,4 @@
 {
    "status":"force update",
-   "message":"Please update your App first",
-  
-}
+   "message":"Please update your App first"
+  }
